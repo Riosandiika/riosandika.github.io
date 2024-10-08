@@ -1,0 +1,137 @@
+body {
+    background: linear-gradient(rgb(167, 81, 1),rgba(139, 100, 25, 0.411),rgba(0, 0, 0, 0));
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+    box-sizing: border-box;
+    background: linear-gradient(rgb(100, 58, 3), rgb(99, 69, 15), rgb(255, 255, 255)), url(../img/itera12.jpg);
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container12 {
+    max-width: 700px;
+}
+
+.container12 h1 {
+    font-family: sans-serif;
+    font-style: italic;
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.container12 h2 {
+    font-family: sans-serif;
+    font-style: italic;
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+section img {
+    position: relative;
+    max-width: 500px;
+}
+
+
+.sd-content {
+    margin: .5px;
+}
+
+.smp-content {
+    margin: .5px;
+}
+
+.smk-content {
+    margin: .5px;
+}
+
+.edu-content {
+    margin: 30px;
+}
+
+.organisasi {
+    background-color: black;
+}
+
+.text-center1 {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hai-rio {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.biodata1 {
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.658) 40%, #ff020200 100%);
+    padding-bottom: 75px;
+    padding-top: 55px;
+}
+
+.biodata1 h1 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rioo h1 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rioo1 h1 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Pengalaman {
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.658) 40%, #ff020200 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+
+.KONTAK a {
+    color: black;
+    font-size: 30px;
+}
+
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.footer h1 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.watermark {
+    padding-top: 30px;
+}
+
+.RiwayatPendidikan {
+    padding-top: 55px;
+}
+
+.row {
+    padding: 0px 20px;
+}
